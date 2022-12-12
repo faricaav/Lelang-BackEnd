@@ -3,7 +3,7 @@
 
 ![Screenshot (33)](https://user-images.githubusercontent.com/100252923/207083060-988ed3f9-254c-4a4f-b64c-1d1fbe2c7f59.png)
 
-<b>Link Download File database</b>: <br>
+<b>Link Download File Database</b>: <br>
 https://drive.google.com/file/d/15Ly-va5DkHPPbubJvx9IwCEXUe7yTxkQ/view?usp=sharing <br>
 
 ---------------------------------------------------------
@@ -11,7 +11,7 @@ https://drive.google.com/file/d/15Ly-va5DkHPPbubJvx9IwCEXUe7yTxkQ/view?usp=shari
 <b>Dokumentasi API</b>:
 
 API BARANG <br>
-Auth only for admin & petugas <br>
+Auth for admin & petugas <br>
 GET ALL : http://localhost:8080/barang <br>
 GET FIND BY ID : http://localhost:8080/barang/{id_barang} <br>
 POST : http://localhost:8080/barang <br>
