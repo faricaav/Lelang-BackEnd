@@ -3,9 +3,6 @@
 
 ![Screenshot (33)](https://user-images.githubusercontent.com/100252923/207083060-988ed3f9-254c-4a4f-b64c-1d1fbe2c7f59.png)
 
-<b>Link Download File Database</b>: <br>
-https://drive.google.com/file/d/15Ly-va5DkHPPbubJvx9IwCEXUe7yTxkQ/view?usp=sharing <br>
-
 ---------------------------------------------------------
 
 <b>Dokumentasi API</b>:
